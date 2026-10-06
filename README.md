@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                                                                               Welcom:<br><br>A CS student who is passionate about cybersecurity, trying to become a penetration tester and bug bounty hunter.<br>
+  🐍A CS student who is passionate about cybersecurity, trying to become a penetration tester and bug bounty hunter🐍
 
 
 ## 🌐 Socials:
